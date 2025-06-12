@@ -23,7 +23,7 @@ package AceptaElReto;
 |##  ##  ##  ##  |
 |----------------|
  */
-public class AceptaElReto162XXXXXXXXXXX {
+public class XAceptaElReto162 {
 
     static java.util.Scanner sc = new java.util.Scanner(System.in);
 

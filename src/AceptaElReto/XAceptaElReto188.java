@@ -1,7 +1,7 @@
 package AceptaElReto;
 
 
-public class AceptaElReto188XXXXXXXXXXXXXXXX {
+public class XAceptaElReto188 {
     static java.util.Scanner sc = new java.util.Scanner(System.in);
 
     public static void main(String[] args) {

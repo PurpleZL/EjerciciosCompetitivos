@@ -17,7 +17,7 @@ package AceptaElReto;
 0
 3
  */
-public class AceptaElReto176XXXXXXXXXXXXXXXXXXXXXXXX {
+public class XAceptaElReto176 {
 
     static java.util.Scanner sc = new java.util.Scanner(System.in);
 

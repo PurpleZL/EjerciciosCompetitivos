@@ -1,1 +1,14 @@
-/build/
+# IntelliJ
+.idea/
+*.iml
+out/
+build/
+test/
+
+# NetBeans
+nbproject/
+
+# Archivos generados
+*.class
+*.log
+*.jar

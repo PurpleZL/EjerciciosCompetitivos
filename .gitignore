@@ -1,12 +1,13 @@
 # IntelliJ
-.idea/
+/.idea/
 *.iml
-out/
+/out/
+out/production/EjerciciosCompetitivos
 build/
 test/
 
 # NetBeans
-nbproject/
+/nbproject/
 
 # Archivos generados
 *.class

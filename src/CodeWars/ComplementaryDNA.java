@@ -1,7 +1,5 @@
 package CodeWars;
 
-import java.util.stream.Collectors;
-
 public class ComplementaryDNA {
     public static String makeComplement(String dna) {
         StringBuilder sb = new StringBuilder();
